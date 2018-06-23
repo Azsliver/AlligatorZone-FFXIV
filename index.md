@@ -5,10 +5,4 @@
 ``markdown
 [NGA](http://nga.178.com/read.php?tid=12007124&rand=193)  
 [susu](http://www.ffxiv.cn/detail/article/348)
-### Jekyll Themes
 ``
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Azsliver/AzFFXIV/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
