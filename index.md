@@ -3,8 +3,9 @@
 ### 新手教程
 先给一些现成的新手教程供参考
 ```markdown
-[NGA](http://nga.178.com/read.php?tid=12007124&rand=193/)  
-[susu](https://www.ffxiv.cn/detail/article/348/)
+[NGA](http://nga.178.com/read.php?tid=12007124&rand=193)  
+[susu](http://www.ffxiv.cn/detail/article/348)
+AZ自制新手教程
 ```
 
 
