@@ -6,7 +6,8 @@
 
 先给一些现成的新手教程供参考
 ```markdown
-NGA:(http://nga.178.com/read.php?tid=12007124&rand=193)
+[NGA](http://nga.178.com/read.php?tid=12007124&rand=193)  
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
