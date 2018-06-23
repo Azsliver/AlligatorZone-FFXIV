@@ -2,26 +2,11 @@
 
 在这里会贴出新手入门教程，和一些比较有用的小贴士
 
-### Markdown
+## 新手教程
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+先给一些现成的新手教程供参考
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+NGA:(http://nga.178.com/read.php?tid=12007124&rand=193)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
